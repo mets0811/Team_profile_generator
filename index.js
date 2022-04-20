@@ -82,7 +82,7 @@ const addManager = () => {
 const addEmployee = () => {
     console.log(`
     =================
-    Adding employees to the one and only team of this galaxy!
+    Adding employees to the portal.
     =================
     `);
 

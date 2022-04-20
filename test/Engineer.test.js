@@ -2,21 +2,21 @@ const Engineer = require('../lib/Engineer');
 
 
 test('creates an Engineer object', () => {
-    const engineer = new Engineer('Tanya', 26, 'tanyaleepr@gmail', 'tanyaleepr');
+    const engineer = new Engineer('melissa', 31, 'melissa.mor0811@gmail', 'melissa.mor0811');
     
     expect(engineer.github) .toEqual(expect.any(String));
 });
 
 // getting their github
 test('gets engineer github value', () => {
-    const engineer = new Engineer('Tanya', 26, 'tanyaleepr@gmail', 'tanyaleepr');
+    const engineer = new Engineer('melissa', 31, 'melissa.mor0811@gmail', 'melissa.mor0811');
 
     expect(engineer.getGithub()).toEqual(expect.stringContaining(engineer.github.toString()));
 });
 
 //role
 test('gets role of employee', () => {
-    const engineer = new Engineer('Tanya', 26, 'tanyaleepr@gmail', 'tanyaleepr');
+    const engineer = new Engineer('melissa', 31, 'melissa.mor0811@gmail', 'melissa.mor0811');
 
     expect(engineer.getRole()).toEqual("Engineer");
 });
