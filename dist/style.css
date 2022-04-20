@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: gray;
+}
+#navbar {
+    background-color:green;
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    justify-content: center;
+}
+
+
+.card-header {
+    background-color: gray;
+    color: black;
+
+}
+
+.card-body {
+    background-color: white;
+    color: brown;
+    
+
+}
+
+.container {
+    margin: 5%;
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+

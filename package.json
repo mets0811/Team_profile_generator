@@ -1,0 +1,28 @@
+{
+  "name": "Team_profile_generator",
+  "version": "1.0.0",
+  "description": "app to create team profile generator for Team_profile_generator ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mets0811/Team_profile_generator.git"
+  },
+  "author": "Tanya Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mets0811/Team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/mets0811/Team_profile_generator",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
