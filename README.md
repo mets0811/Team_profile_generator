@@ -30,7 +30,7 @@ This project is covered under the following license:
 Contributors are welcomed! 
 <a name="tests"></a>
 ## Tests
-Run npm test and Node.js index or see the video below. [Click here to see the tutorial](#).
+Run npm test and Node.js index or see the video below. [Click here to see the tutorial](#https://drive.google.com/file/d/17pGp1EuwPCV4JMLm1ITSdZle94Vv15RW/view).
 <a name="questions"></a>
 ## Questions
 If you have any questions, feel free to reach out at: [GitHub](https://github.com/mets0811/) or <melissa.mor0811@gmail.com>
